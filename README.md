@@ -63,8 +63,8 @@ $ npm run test:cov
 Nest is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please [read more here](https://docs.nestjs.com/support).
 
 ## For more contact info
-email : fady.grgs94@gmail.com
-phone number: +201282660064
+email : fady.grgs94@gmail.com , 
+phone number: +201282660064, 
 linkedin: https://www.linkedin.com/in/fadygrgs/
 
 ## License
